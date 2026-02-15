@@ -1,7 +1,3 @@
-This README is designed to make your GitHub repository look like a professional, high-end security tool. It highlights the "Defense-in-Depth" architecture and the scientific validation (PSNR/Histograms) that sets your project apart.
-
----
-
 # 🕵️ The Invisible Courier PRO
 
 ### **An Advanced Steganographic Framework with Multi-Layered AES-256 Encryption**
