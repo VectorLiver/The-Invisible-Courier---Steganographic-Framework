@@ -87,5 +87,3 @@ streamlit run app.py
 ## 📜 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-**Would you like me to also generate a `requirements.txt` file or a specific "Project Report" summary based on this README?**
